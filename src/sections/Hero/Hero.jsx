@@ -43,7 +43,7 @@ function Hero() {
         </p>
 
         <span>
-          <a href="https://facebook.com/asweissman" target="">
+          <a href="https://facebook.com/yanowjfjkd" target="">
             <img src={facebookIcon} alt="Facebook icon" />
           </a>
           <a href="https://github.com/rtxd22" target="">
